@@ -1,5 +1,5 @@
 ## data science salary predicition project
-# import the essential lib of python 
+# import the Essential lib of python 
 # import the lib of sklearn
 # import the data set 
 # performing the descriptive stats 
